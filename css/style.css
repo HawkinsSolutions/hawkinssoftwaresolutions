@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #00B98E;
+    --primary: #05cbf3;
     --light: #F3F6F8;
     --dark: #0E2E50;
 }
@@ -76,6 +76,34 @@
     border-radius: 50px;
 }
 
+.home-img{
+    background-image: url("../img/home.jpg") ;
+    color: white;
+}
+.abt-img{
+    background-image: url("../img/applicationservices.webp") ;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    color: white;
+}
+.appli-img{
+    background-image: url("../img/aplli.jpg") ;
+
+    margin-bottom: 50px;
+    color: white;
+}
+
+.apps-img{
+    background-image: url("../img/app2.jpg");
+}
+
+.cyber-img{
+    background-image: url("../img/cyber-header.jpg");
+}
+
+.sales-img{
+    background-image: url("../img/sales-head.jpg");
+}
 
 /*** Navbar ***/
 .navbar .navbar-nav .nav-link {
