@@ -105,6 +105,32 @@
     background-image: url("../img/sales-head.jpg");
 }
 
+.edu-img{
+    background-image: url("../img/education-head.jpg");
+}
+
+.eng-img{
+    background-image: url("../img/engg-head.jpg");
+}
+
+.app-new-img{
+    background-image: url("../img/app-2-deploy.jpg");
+}
+
+.tel-img{
+    background-image: url("../img/telcom.jpg");
+}
+
+.service-img{
+    background-image: url("../img/sevice.jpg");
+}
+
+.cont-img{
+    background-image: url("../img/cont2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
 /*** Navbar ***/
 .navbar .navbar-nav .nav-link {
     position: relative;
