@@ -131,6 +131,12 @@
     background-size: 100%;
 }
 
+.why-j{
+    background-image: url("../img/why-join.webp");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
 /*** Navbar ***/
 .navbar .navbar-nav .nav-link {
     position: relative;
